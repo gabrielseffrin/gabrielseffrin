@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @gabrielseffrin
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning java, js, spark, database
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me @gabriel.seffrin on instagram
+👋 Hi, I’m @gabrielseffrin
+
+🎓 Studying **Internet Systems** at UTFPR  
+💼 Currently working as a **Business and BI Analyst**  
+💾 Experienced in **SQL, PostgreSQL, Python, Power BI, React Native, and Expo**  
+🚀 Passionate about technology, data, and mobile development 
 
 <!---
 gabrielseffrin/gabrielseffrin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
