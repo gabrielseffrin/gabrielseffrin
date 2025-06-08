@@ -2,7 +2,7 @@
 
 🎓 Studying **Internet Systems** at UTFPR  
 💼 Currently working as a **Business and BI Analyst**  
-💾 Experienced in **SQL, PostgreSQL, Python, Power BI, React Native, and Expo**  
+💾 Experienced in **SQL, PostgreSQL, Python, React, PHP Laravel, React Native, Expo and Power BI**  
 🚀 Passionate about technology, data, and mobile development 
 
 <!---
