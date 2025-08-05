@@ -1,17 +1,12 @@
 <h1 align="center">Olá! Eu sou o Gabriel Seffrin 👋</h1>
 
-<p align="center">
-  Desenvolvedor apaixonado por tecnologia e inovação, sempre em busca de novos desafios para aplicar e expandir meus conhecimentos. Atualmente focado em aprender e contribuir para projetos que gerem impacto.
-</p>
-
 ---
 
 ## Sobre Mim 🧑‍💻
 
-- 🌱 Atualmente estou aprendendo e aprimorando minhas habilidades em **Desenvolvimento Web Fullstack, Machine Learning e Cloud Computing**.
-- 🚀 Tenho interesse em **construir aplicações escaláveis, otimizar performance e desenvolver soluções open source**.
-- 💡 Aberto a colaborações em projetos de **impacto social, código aberto e que desafiem o status quo**.
-- 💬 Vamos conversar sobre **novas tecnologias, boas práticas de código e oportunidades na área de TI**!
+- 🌱 Atualmente trabalhando como programador Full Stack e Analista de Negócios e BI na Millpar S/A. Estududo na UTFPR no curso de Sistemas para Internet
+- 🚀 Tenho interesse em aprimorar e evoluir minhas habilidades com programação e dados.
+- 💡 Aberto a novos projetos e inovações.
 
 ---
 
