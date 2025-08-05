@@ -1,11 +1,3 @@
-## Sobre Mim 🧑‍💻
-
-- 🌱 Atualmente trabalhando como programador Full Stack e Analista de Negócios e BI na Millpar S/A. Estududo na UTFPR no curso de Sistemas para Internet
-- 🚀 Tenho interesse em aprimorar e evoluir minhas habilidades com programação e dados.
-- 💡 Aberto a novos projetos e inovações.
-
----
-
 ## Minhas Habilidades 🛠️
 
 <p align="center">
