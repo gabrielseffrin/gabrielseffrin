@@ -1,7 +1,3 @@
-<h1 align="center">Olá!!👋</h1>
-
----
-
 ## Sobre Mim 🧑‍💻
 
 - 🌱 Atualmente trabalhando como programador Full Stack e Analista de Negócios e BI na Millpar S/A. Estududo na UTFPR no curso de Sistemas para Internet
