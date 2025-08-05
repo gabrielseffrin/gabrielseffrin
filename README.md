@@ -1,4 +1,4 @@
-<h1 align="center">Olá! Eu sou o Gabriel Seffrin 👋</h1>
+<h1 align="center">Olá!!👋</h1>
 
 ---
 
@@ -36,11 +36,6 @@
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielseffrin&layout=compact&langs_count=7&theme=dark"/>
   </a>
 </p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gabrielseffrin&theme=dark" alt="GitHub Streak"/>
-</p>
-
 ---
 
 ## Conecte-se Comigo 🤝
